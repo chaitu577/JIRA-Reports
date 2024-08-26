@@ -1,0 +1,18 @@
+{namespace Dashboard.Item.Templatesbloompeakjr}
+
+/**
+*/
+{template .Static}
+ <div id="bloompeak-jr-static"/>
+{/template}
+
+/**
+* @param frameId
+* @param dashboardId
+* @param dashboardItemId
+* @param contextPath
+*/
+{template .IFrame}
+ <div id="bloompeak-jr-iframe-{$dashboardId}-{$dashboardItemId}"/>
+ <iframe id="{$frameId}" src="{$contextPath}/plugins/servlet/bloompeak-jr/mainservlet/chart?dashboardId={$dashboardId}&itemId={$dashboardItemId}" width="100%" heigth="500px"></iframe>
+{/template}

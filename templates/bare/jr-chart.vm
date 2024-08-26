@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title>Reports - Charts and Graphs for Jira</title>
+
+  <meta name="on-data-center" content="true"/>
+  <meta name="addon-key" content="${pluginKey}"/>
+  <meta name="contextPath" content="${contextPath}"/>
+  <meta name="cfwsfk" content="${cfwsfk}"/>
+  <meta name="user_is_admin" content="${user_is_admin}"/>
+
+  _CSS_AREA_
+</head>
+  <body>
+    <div id="bloompeak-jr-root" class="ac-content"></div>
+    _SCRIPT_AREA_
+</body>
+</html>

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c04f22d8.css",
+    "main.js": "/static/js/main.fc6eb77c.js",
+    "async-jql-editor.js": "/static/js/async-jql-editor.7dc90ef2.chunk.js",
+    "static/js/522.7077fd75.chunk.js": "/static/js/522.7077fd75.chunk.js",
+    "index.html": "/index.html",
+    "static/media/placeholder-table.svg": "/static/media/placeholder-table.ea8a8a6db2103a58338047c6e126e893.svg",
+    "static/media/placeholder.svg": "/static/media/placeholder.0fd72ffb15363cf934e6cdb6dbf264e2.svg"
+  },
+  "entrypoints": [
+    "static/css/main.c04f22d8.css",
+    "static/js/main.fc6eb77c.js"
+  ]
+}

@@ -1,0 +1,15 @@
+<bundles>
+<web-resource key="react-js">
+	<context>react-js</context>
+	<dependency>com.atlassian.plugins.atlassian-plugins-webresource-plugin:context-path</dependency>
+	<resource type="download" name="522.7077fd75.chunk.js" location="static/js/522.7077fd75.chunk.js"/>
+	<resource type="download" name="async-jql-editor.7dc90ef2.chunk.js" location="static/js/async-jql-editor.7dc90ef2.chunk.js"/>
+	<resource type="download" name="main.fc6eb77c.js" location="static/js/main.fc6eb77c.js"/>
+</web-resource>
+
+<web-resource key="react-css">
+	<context>react-css</context>
+	<dependency>com.atlassian.plugins.atlassian-plugins-webresource-plugin:context-path</dependency>
+	<resource type="download" name="main.c04f22d8.css" location="static/css/main.c04f22d8.css"/>
+</web-resource>
+</bundles>

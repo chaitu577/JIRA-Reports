@@ -1,0 +1,6 @@
+<svg id="Loading_Chart" data-name="Loading Chart" xmlns="http://www.w3.org/2000/svg" width="289" height="289" viewBox="0 0 189 189">
+    <g id="bar-graph" opacity="0.298">
+        <path id="Shape" d="M0,114V102.884H11.535V47.464H44.763v55.42H55.646V2.932H88.874v99.952H99.941V24.232h33.228v78.653h11.067V0h33.228V102.884H189V114Z" transform="translate(0 75)" fill="#ddd"/>
+        <path id="Path" d="M155.846,0V11.03h14.24L119.049,61.857,76.768,19.75,0,96.2,7.839,104l68.93-68.645,42.281,42.106,58.868-58.625V33.068H189V0Z" fill="#ddd"/>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title>Reports - Charts and Graphs for Jira</title>
+
+  <meta name="on-data-center" content="true"/>
+  <meta name="addon-key" content="${pluginKey}"/>
+  <meta name="contextPath" content="${contextPath}"/>
+  <meta name="cfwsfk" content="${cfwsfk}"/>
+  <meta name="user_is_admin" content="${user_is_admin}"/>
+
+  <meta name="decorator" content="atl.general" />
+
+   <link href="${contextPath}/download/resources/io.bloompeak.jira-reports-free:react-css/main.c04f22d8.css" rel="stylesheet" />
+</head>
+  <body>
+    <div id="bloompeak-jr-root" class="ac-content"></div>
+     <script src="${contextPath}/download/resources/io.bloompeak.jira-reports-free:react-js/522.7077fd75.chunk.js"></script> <script src="${contextPath}/download/resources/io.bloompeak.jira-reports-free:react-js/async-jql-editor.7dc90ef2.chunk.js"></script> <script src="${contextPath}/download/resources/io.bloompeak.jira-reports-free:react-js/main.fc6eb77c.js"></script>
+</body>
+</html>
